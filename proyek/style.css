@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FFEEF3; /* Warna pastel pink */
+    color: #333;
+    text-align: center;
+}
+
+header {
+    background-color: #FFC7C7;
+    padding: 15px;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #6A0572;
+}
+
+textarea {
+    width: 80%;
+    height: 200px;
+    margin-top: 20px;
+    padding: 10px;
+    border: 2px solid #6A0572;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    border: none;
+    background-color: #FF92A5;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #E36BAE;
+}
